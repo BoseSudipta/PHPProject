@@ -1,0 +1,28 @@
+body{
+	
+}
+.btn3d:hover{
+	
+  transition: .3s all;
+  cursor: pointer;
+}
+.button{
+ width:300px;
+ height:100px;
+ display:block;
+}
+.btn-danger {
+    box-shadow:0 0 0 1px #c63702 inset, 0 0 0 2px rgba(255,255,255,0.15) inset, 3px 6px 0 0 #C24032, 3px 6px 8px 1px rgba(255,255,255,0.5);
+}
+.container .form-icon{
+	text-align: center;
+    background-color: #5891ff;
+    border-radius: 50%;
+    font-size: 40px;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 50px;
+    line-height: 100px;
+}
